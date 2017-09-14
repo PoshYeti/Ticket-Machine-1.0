@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TicketMachineVariety
+comment1.params=ticketShort\ ticketLong
+comment1.target=TicketMachineVariety(int,\ int)
+comment2.params=
+comment2.target=int\ getPriceShort()
+comment3.params=
+comment3.target=int\ getPriceLong()
+comment4.params=
+comment4.target=int\ getBalance()
+comment5.params=amount
+comment5.target=void\ insertMoney(int)
+comment6.params=
+comment6.target=void\ returnMoney()
+comment7.params=
+comment7.target=void\ shortTrainTrip()
+comment8.params=
+comment8.target=void\ longTrainTrip()
+comment9.params=
+comment9.target=void\ printTicket()
+numComments=10
